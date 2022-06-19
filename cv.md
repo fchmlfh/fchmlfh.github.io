@@ -2,12 +2,12 @@
 title: CV
 summary: "Hao Fu's Resume"
 cv_title: Hao Fu
-cv_subtitle: PhD in Number theory
+cv_subtitle: PhD in arithmetic geometry and number theory
 location: Strasbourg, France
 phone: 
-contact_name: OleVik.net/Contact
-contact_link: http://olevik.net/contact
-linkedin_name: LinkedIn/OleHHVik
+>contact_name: OleVik.net/Contact
+>contact_link: http://olevik.net/contact
+>linkedin_name: LinkedIn/OleHHVik
 >linkedin_link: https://no.linkedin.com/in/olehhvik
 experience:
   - years: 2015-
@@ -18,11 +18,11 @@ experience:
     name: Substitute Teacher
     location: Pedagogisk Vikarsentral
     description: Teaching grades 1 to 10 in Norwegian, maths, English, science, religion and ethics, as well as physical exercise.
-  - years: 2014-2015
-    name: Seminar Instructor
-    location: University of Bergen
+  - years: 2016-2019
+    name: ENS Diploma in Mathematics
+    location: École normale supérieure
     description: "Prepared structure and topical content of the seminars, and held seminar meetings in both Norwegian and English for students enrolled in the Bachelor’s Course in Comparative Politics. Courses: Political Economy (5 groups), Bachelor Essay in Comparative Politics (7 groups), Perspectives and Methods of the Social Sciences (2 groups)."
-  - years: 2013, 2014, 2015
+  - years: 2012-2016
     name: Customer Service Representative
     location: Sixt Norway
     description: Customer Service, logistics, preparation of rental cars.
