@@ -7,6 +7,6 @@ layout: default
 
 "About" introductory paragraph.
 
-I am a PhD student in IRMA Strasbourg
+I am a PhD student in Institut de Recherche Mathématique Avancée, Strasbourg
 
-![Researcher Portrait](assets/images/ole.jpg "Ole Vik")
+![Researcher Portrait](assets/images/Borne1_0086.jpg "Hao Fu")
