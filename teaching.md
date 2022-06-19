@@ -5,7 +5,6 @@ date: 2016-04-02
 layout: default
 ---
 
-"Teaching" introductory paragraph.
 Teaching:
   - years: 2020 Fall
     name: Teaching Assistant
