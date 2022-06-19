@@ -23,7 +23,7 @@ teaching:
   - years: 2019 Fall
     name: TD Algèbre S3
     location: Université de Strasbourg
-misc: Chinese, English, French
+language: Chinese, English, French
 date: 2022-06-19
 layout: cv
 ---
