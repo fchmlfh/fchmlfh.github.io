@@ -28,25 +28,19 @@ menu:
       url: "#experience"
     - title: Education
       url: "#education"
-    - title: Positions
-      url: "#positions"
+  #  - title: Positions
+  #    url: "#positions"
     - title: Miscellaneous
       url: "#miscellaneous"
  - page: Teaching
    url: /teaching
- - page: Media
-   url: /media
- - page: Accolades
-   url: /accolades
+ #- page: Media
+#   url: /media
+# - page: Accolades
+ #  url: /accolades
 menu_external:
- - title: OleVik.me
-   url: "http://olevik.me/"
- - title: Research Gate
-   url: "https://www.researchgate.net/profile/Ole_Vik"
- - title: LinkedIn
-   url: "https://no.linkedin.com/in/olehhvik"
- - title: Twitter
-   url: "https://twitter.com/olehhv"
+ - title: Hao Fu
+   url: "https://fchmlfh.github.io/"
 mathjax: false
 markdown: kramdown
 encoding: utf-8
