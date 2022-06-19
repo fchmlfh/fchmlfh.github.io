@@ -17,6 +17,6 @@ Education:
     name: Bachelor’s Degree in Physics
     location: Peking University
 misc: Chinese, English, French
-date: 2016-04-02
+date: 2022-06-19
 layout: cv
 ---
