@@ -5,7 +5,8 @@ date: 2016-04-13
 layout: default
 ---
 
-"Research" introductory paragraph.
+My research topic mainly concerns geometry of Shimura varieties and level raising/lowering of automorphic forms.
+
 
 ## Lever lowering for U(1,2)
 Mazur's principle provides simple conditions so that an irreducible unramified $\mathbb{F}_\ell$
