@@ -2,7 +2,7 @@
 title: CV
 summary: "Hao Fu's Resume"
 cv_title: Hao Fu
-cv_subtitle: 
+cv_subtitle: ff
 location: Strasbourg, France
 phone: 
 contact_link: https://fchmlfh.github.io
