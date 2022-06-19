@@ -1,14 +1,14 @@
 ---
 title: CV
-summary: "Ole Vik's Resume"
-cv_title: Ole Vik
-cv_subtitle: Political Economist
-location: Bergen
+summary: "Hao Fu's Resume"
+cv_title: Hao Fu
+cv_subtitle: PhD in Number theory
+location: Strasbourg, France
 phone: 
 contact_name: OleVik.net/Contact
 contact_link: http://olevik.net/contact
 linkedin_name: LinkedIn/OleHHVik
-linkedin_link: https://no.linkedin.com/in/olehhvik
+>linkedin_link: https://no.linkedin.com/in/olehhvik
 experience:
   - years: 2015-
     name: Research Assistant
