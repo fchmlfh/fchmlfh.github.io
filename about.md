@@ -5,8 +5,7 @@ date: 2016-04-13
 layout: default
 ---
 
-"About" introductory paragraph.
-
-I am a PhD student in Institut de Recherche Mathématique Avancée, Strasbourg
+I am a PhD student in Arithmetic Geometry and Number theory at Institut de Recherche Mathématique Avancée, Strasbourg.
+My advisors are Adriano Marmoma and Yichao Tian.
 
 ![Researcher Portrait](assets/images/Borne1_0086.jpg "Hao Fu")
