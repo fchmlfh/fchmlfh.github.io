@@ -2,11 +2,11 @@
 title: CV
 summary: "Hao Fu's Resume"
 cv_title: Hao Fu
-cv_subtitle: ff
+cv_subtitle: 
 location: Strasbourg, France
 phone: 
 contact_link: https://fchmlfh.github.io
-Education:
+education:
   - years: 2019-2023
     name: PhD in Arithmetic Geometry and Number theory
     location: Université de Strasbourg
