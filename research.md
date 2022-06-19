@@ -13,4 +13,6 @@ Mazur's principle provides simple conditions so that an irreducible unramified $
 representation coming from a modular form of level $\Gamma_{0} (Np)$ also comes from a form of level $\Gamma_0 (N)$.
 We proof Mazur's principle for $U(1,2)$ by studying the geometry of special fiber of Shimura varieties.
 
-## Project Two
+## Explicit cycle from higher Chow group and arithmetic level raising for U(1,2)
+Using higher Chow group we construct cycles in an explicit manner which realise the arithmetic level raising 
+for $U(1,2).$
