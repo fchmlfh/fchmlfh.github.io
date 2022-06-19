@@ -16,6 +16,13 @@ education:
   - years: 2012-2016
     name: Bachelor’s Degree in Physics
     location: Peking University
+teaching:
+  - years: 2020 Fall
+    name: Complex analysis for physics department, Maths S1 for biology department
+    location: Université de Strasbourg
+  - years: 2019 Fall
+    name: TD Algèbre S3
+    location: Université de Strasbourg
 misc: Chinese, English, French
 date: 2022-06-19
 layout: cv
