@@ -9,7 +9,7 @@ layout: default
 
 ## Lever lowering in U(3)
 Mazur's principle provides simple conditions so that an irreducible unramified $\mathbb{F}_\ell$
-representation coming from a modular form of level $\Gamma_0 (N p)$ 
+representation coming from a modular form of level $\Gamma_0 (N p)$ also comes from a form of level $\Gamma_0 (N)$.
 
 ## Project Two
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
