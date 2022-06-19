@@ -5,8 +5,6 @@ date: 2016-04-13
 layout: default
 ---
 
-"Papers" introductory paragraph.
-
 ## Working papers
 Lever lowering for U(1,2)
 
