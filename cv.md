@@ -3,7 +3,7 @@ title: CV
 summary: "Hao Fu's Resume"
 cv_title: Hao Fu
 cv_subtitle: 
-location: Strasbourg, France
+location: Institut de Recherche Mathématique Avancée, Université de Strasbourg, France
 phone: 
 contact_link: https://fchmlfh.github.io
 education:
