@@ -11,8 +11,8 @@ My research topic mainly concerns geometry of Shimura varieties and level raisin
 ## Lever lowering for U(1,2)
 Mazur's principle provides simple conditions so that an irreducible unramified $\mathbb{F}_\ell$
 representation coming from a modular form of level \Gamma_{0} (Np) also comes from a form of level $\Gamma_0 (N)$.
-We proof Mazur's principle for $U(1,2)$ by studying the geometry of special fiber of Shimura varieties.
+We prove Mazur's principle for $U(1,2)$ by studying the geometry of special fiber of Shimura varieties.
 
-## Explicit cycle from higher Chow group and arithmetic level raising for U(1,2)
+## Arithmetic level raising for U(1,2) at  an  inert prime
 Using higher Chow group we construct cycles in an explicit manner which realise the arithmetic level raising 
 for $U(1,2).$
