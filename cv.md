@@ -6,6 +6,10 @@ cv_subtitle:
 location: Institut de Recherche Mathématique Avancée, Université de Strasbourg, France
 phone: 
 contact_link: https://fchmlfh.github.io
+work:
+  - years: 2023-2025
+    name: Postdoc in Arithmetic Geometry and Number theory
+    location: McGill University
 education:
   - years: 2019-2023
     name: PhD in Arithmetic Geometry and Number theory
