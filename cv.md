@@ -6,6 +6,7 @@ cv_subtitle:
 location: McGill University, Canada
 phone: 
 contact_link: https://fchmlfh.github.io
+education:
   - years: 2023-2025
     name: Postdoc in Arithmetic Geometry and Number theory
     location: McGill University
