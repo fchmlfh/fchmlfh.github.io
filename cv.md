@@ -6,7 +6,6 @@ cv_subtitle:
 location: McGill University, Canada
 phone: 
 contact_link: https://fchmlfh.github.io
-work:
   - years: 2023-2025
     name: Postdoc in Arithmetic Geometry and Number theory
     location: McGill University
@@ -21,6 +20,9 @@ education:
     name: Bachelor’s Degree in Physics
     location: Peking University
 teaching:
+  - years: 2023 Fall
+    name: Calculus 1
+    location: McGill University
   - years: 2020 Fall
     name: Complex analysis for physics department, Maths S1 for biology department
     location: Université de Strasbourg
