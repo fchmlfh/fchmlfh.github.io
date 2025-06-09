@@ -5,7 +5,8 @@ date: 2016-04-13
 layout: default
 ---
 
-My research topic mainly concerns geometry of Shimura varieties and level raising/lowering of automorphic forms.
+My research topic mainly concerns mod p geometry of Shimura varieties and level raising/lowering of automorphic forms.
+I am also interested in catogorical Langlands.
 
 
 ## Lever lowering for U(1,2)
